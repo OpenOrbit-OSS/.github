@@ -1,7 +1,7 @@
 # 🚀 OpenOrbit Initiative
 
 <p align="center">
-  <img src="https://path-to-your-logo/logo.png" width="300" alt="OpenOrbit Logo">
+  <img src="IMG_20260422_193332.png" width="300" alt="OpenOrbit Logo">
   <br>
   <b>"Sovereignty in code, safety in orbit."</b>
 </p>
